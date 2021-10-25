@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rougenij
 - 👀 I’m interested in - Gaming and Streaming
 - 🌱 I’m currently learning on how to become a Fullstack Dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- If you wanna reach me, best way is via Twitter.
 
 <!---
