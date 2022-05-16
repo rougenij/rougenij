@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rouge Nijem</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Israel</h3>
 
-- 🔭 I’m currently working on [Shopping Website](https://github.com/rougenij/Amazon-FullStackProject)
+- 🔭 I’m currently working on [Restaurant Waiter App Project](https://github.com/rougenij/BAPsturant-client)
 
 - 🌱 I’m currently learning **how to become a Full-Stack Web Developer**
 
