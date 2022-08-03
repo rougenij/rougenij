@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rougenij@gmail.com or contact me via Discord**
 
-- ⚡ Fun fact **I am a competitve gamer and content creator for Team Moke**
+- ⚡ Fun fact **I am a competitve gamer and content creator for ![Team Moke](https://teammoke.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
