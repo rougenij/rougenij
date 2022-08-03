@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rouge Nijem</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Israel</h3>
 
-- 🔭 I’m currently working on [Restaurant Waiter App Project](https://github.com/rougenij/BAPsturant-client)
+- 🔭 I’m currently working on [Valoshop](https://github.com/Iz1cK/valshop-backend)
 
 - 🌱 I’m currently learning **how to become a Full-Stack Web Developer**
 
 - 📫 How to reach me **rougenij@gmail.com or contact me via Discord**
 
-- ⚡ Fun fact **I am a competitve gamer and content creator for ![Team Moke](https://teammoke.com/)**
+- ⚡ Fun fact **I am a competitve gamer and content creator for [Team Moke](teammoke.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
