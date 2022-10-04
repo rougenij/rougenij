@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rouge Nijem</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Israel</h3>
 
-- 🔭 I’m currently working on [Valoshop](https://github.com/Iz1cK/valshop-backend)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **how to become a Full-Stack Web Developer**
 
